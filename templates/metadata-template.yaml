@@ -1,0 +1,54 @@
+# Invention Metadata
+# Copy this file as metadata.yaml into each invention folder
+
+id: "INV-XXX"
+title: ""
+slug: ""                          # short URL-friendly name, e.g. "cam-strap-quick-release"
+date_disclosed: "YYYY-MM-DD"
+version: "1.0"
+inventor: ""
+
+# Status tracking
+status: "draft"                   # draft | review | published
+prototype_status: "conceptual"    # conceptual | prototype | tested | production-ready
+
+# Classification
+categories: []                    # e.g. [mechanical, fasteners, marine]
+primary_field: ""                 # e.g. "mechanical engineering"
+keywords: []                      # for search: synonyms, related terms
+
+# What type of invention is this?
+type:
+  hardware: false
+  process: false                  # manufacturing method, chemical process, etc.
+  software: false
+  materials: false
+
+# Relationships to other inventions in this repository
+related_inventions: []            # e.g. [INV-001, INV-005]
+depends_on: []                    # this invention requires these to function
+enables: []                       # these inventions build on this one
+shares_components_with: []        # common parts or subsystems
+variant_of: ""                    # if this is a variation of another invention
+
+# Software details (if applicable)
+software:
+  languages: []                   # e.g. [Python, C++, Arduino]
+  repository: ""                  # relative path or URL
+  dependencies: []                # key libraries or frameworks
+
+# Files in this disclosure
+files:
+  disclosure: "DISCLOSURE.md"
+  drawings: []                    # e.g. [drawings/figure-01.png, drawings/figure-02.svg]
+  cad: []                         # e.g. [cad/assembly.step, cad/part.stl]
+  software: []                    # e.g. [software/main.py, software/firmware.ino]
+  datasheets: []                  # e.g. [references/motor-datasheet.pdf]
+  test_results: []                # e.g. [tests/load-test-2025-02-12.csv]
+
+# Publication tracking
+published_to:
+  github: false
+  prior_art_archive: false
+  archive_org: false
+  other: []

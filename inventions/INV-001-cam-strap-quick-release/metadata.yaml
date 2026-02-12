@@ -1,0 +1,45 @@
+id: "INV-001"
+title: "Combined Quick-Release Cam Strap Tightener"
+slug: "cam-strap-quick-release"
+date_disclosed: "2025-02-12"
+version: "0.1"
+inventor: ""
+
+status: "draft"
+prototype_status: "conceptual"
+
+categories: [mechanical, fasteners, straps]
+primary_field: "mechanical engineering"
+keywords: [cam buckle, quick release, strap tightener, cam strap, quick connect,
+           quick disconnect, buckle, fastener, cargo strap, tie-down, tensioner]
+
+type:
+  hardware: true
+  process: false
+  software: false
+  materials: false
+
+related_inventions: []
+depends_on: []
+enables: []
+shares_components_with: []
+variant_of: ""
+
+software:
+  languages: []
+  repository: ""
+  dependencies: []
+
+files:
+  disclosure: "DISCLOSURE.md"
+  drawings: []
+  cad: []
+  software: []
+  datasheets: []
+  test_results: []
+
+published_to:
+  github: false
+  prior_art_archive: false
+  archive_org: false
+  other: []
