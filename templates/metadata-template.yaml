@@ -1,7 +1,7 @@
 # Invention Metadata
 # Copy this file as metadata.yaml into each invention folder
 
-id: "INV-XXX"
+id: "INV-XXXX"
 title: ""
 slug: ""                          # short URL-friendly name, e.g. "cam-strap-quick-release"
 date_disclosed: "YYYY-MM-DD"

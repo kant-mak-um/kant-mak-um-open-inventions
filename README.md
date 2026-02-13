@@ -22,7 +22,7 @@ This repository serves three goals:
 
 | ID | Title | Category | Status | Prototype |
 |----|-------|----------|--------|-----------|
-| [INV-001](inventions/INV-001-cam-strap-quick-release/DISCLOSURE.md) | Quick-Release Cam Strap Tightener | Mechanical / Fasteners | Draft | — |
+| [INV-0001](inventions/INV-0001-cam-strap-quick-release/DISCLOSURE.md) | Quick-Release Cam Strap Tightener | Mechanical / Fasteners | Draft | — |
 <!-- Add new inventions here as rows -->
 
 ## Repository Structure
@@ -36,7 +36,7 @@ open-inventions/
 ├── CONTRIBUTING.md                    ← How others can contribute
 │
 ├── inventions/
-│   └── INV-001-descriptive-name/
+│   └── INV-0001-descriptive-name/
 │       ├── DISCLOSURE.md              ← Main technical disclosure
 │       ├── metadata.yaml              ← Tags, categories, cross-references
 │       ├── drawings/                  ← Diagrams, schematics, photos

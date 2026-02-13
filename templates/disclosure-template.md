@@ -1,6 +1,6 @@
 # [INVENTION TITLE]
 
-**Disclosure ID:** INV-XXX  
+**Disclosure ID:** INV-XXXX  
 **Date of Disclosure:** YYYY-MM-DD  
 **Inventor(s):** [Name(s)]  
 **Version:** 1.0  
@@ -253,7 +253,7 @@ This invention relates to the field(s) of: [field(s)]
 
 | Related Invention | Relationship |
 |-------------------|-------------|
-| [INV-XXX](../INV-XXX-name/DISCLOSURE.md) | [depends on / enables / variant of / shares component with] |
+| [INV-XXXX](../INV-XXXX-name/DISCLOSURE.md) | [depends on / enables / variant of / shares component with] |
 
 ---
 

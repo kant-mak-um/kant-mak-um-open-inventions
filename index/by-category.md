@@ -1,7 +1,7 @@
 # Inventions by Category
 
 ## Mechanical / Fasteners
-- [INV-001 — Quick-Release Cam Strap Tightener](../inventions/INV-001-cam-strap-quick-release/DISCLOSURE.md)
+- [INV-0001 — Quick-Release Cam Strap Tightener](../inventions/INV-0001-cam-strap-quick-release/DISCLOSURE.md)
 
 ## Electric Motors / Drive Systems
 <!-- e.g. INV-002 — New Motor Design -->

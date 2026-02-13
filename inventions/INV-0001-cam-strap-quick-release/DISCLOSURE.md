@@ -1,6 +1,6 @@
 # Combined Quick-Release Cam Strap Tightener
 
-**Disclosure ID:** INV-001  
+**Disclosure ID:** INV-0001  
 **Date of Disclosure:** 2025-02-12  
 **Inventor(s):** [Your Name]  
 **Version:** 0.1 (Draft — awaiting drawings and detailed description)  
